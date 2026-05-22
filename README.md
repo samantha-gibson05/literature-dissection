@@ -34,3 +34,10 @@ Additionally, you should have edited the `template.qmd` such that all directions
 
 - eScholarship, specifically for the [Cheadle Center](https://escholarship.org/uc/ccber)
 - Google Scholar
+
+
+• README includes required sections (General information, “Data and file information”, “Rendered output”)
+• README sections filled in with enough information to understand the structure of the repository
+• link to rendered output in README works
+• at least 10 commits/pushes with descriptive, concise commit message (be careful with this - if you don’t write a clear description in your commit message, there’s really no going back)
+• commits from more than 1 member of group
