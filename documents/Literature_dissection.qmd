@@ -16,9 +16,9 @@ csl: ecology.csl
 
 | Photo point number | Date of photo | Season  | Direction of photo | Link to photo    |
 |:-------------------|:--------------|:--------|:-------------------|:-----------------|
-| Photopoint_42      | Jul 23, 2020  | Summer  | SE                 | [link](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/694982267344)  |
-| Photopoint_42      | Feb 3, 2020.  | Winter  | SE                 | [link](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/610311618808)  |
-| Photopoint_42      | Dec 13, 2019  | Winter  | SE                 | [link](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/576432502092)  |
+| Photopoint_42      | Jul 23, 2020  | Summer  | SE                 | [link here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/694982267344)  |
+| Photopoint_42      | Feb 3, 2020.  | Winter  | SE                 | [link here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/610311618808)  |
+| Photopoint_42      | Dec 13, 2019  | Winter  | SE                 | [link here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/576432502092)  |
 
 We chose photos from the water year 2020, with one photo being taken in December 2019, another photo taken in February 2020, and the third in July 2020. During this water year, North Campus Open Space received large amounts of rain and even had a large tidal breach event. On the arcGIS map this point is marked as number 12 but the titles of the photos refer to this as point 42. We chose this point, specifically in the south east direction because it overlooks a frequently sampled area for aquatic invertebrates, the main channel of Devreux Slough. The main change that can be seen between these photos is the water level. In December 2019 the water level was low however in February 2020 a large amount of rain was received, increasing water levels and dissolved oxygen levels. Then as the season moves to be more dry during the summer the water level and dissolved oxygen both become lower. 
 
@@ -26,17 +26,17 @@ We chose photos from the water year 2020, with one photo being taken in December
 
 ## Report or poster information
 
-Title: Algae, Macroinvertebrate and Water Quality Relationships at North Campus Open Space
+**Title**: Algae, Macroinvertebrate and Water Quality Relationships at North Campus Open Space
 
-Authors: Lily Huynh, Kylie Malone, Kristen Russell
+**Authors**: Lily Huynh, Kylie Malone, Kristen Russell
 
-Year published: 2023
+**Year published**: 2023
 
-Permalink: [link](https://escholarship.org/uc/item/98b837q4)
+**Permalink**: [link here](https://escholarship.org/uc/item/98b837q4)
 
-Dataset used (likely): Aquatic Inverts Data set (Aquatic Sampling Data-2026-03-10.xlsx)
+**Dataset used** (likely): Aquatic Inverts Data set (Aquatic Sampling Data-2026-03-10.xlsx)
 
-Key insights:
+**Key insights**:
 
 - Dissolved oxygen changed over time and may be linked to macroinvertebrate abundance.
 
@@ -48,38 +48,17 @@ Key insights:
 
 - High dissolved oxygen may support larger populations but not necessarily higher diversity.
 
-Relevance to your study: 
+**Relevance to your study**: 
 
 This poster is relevant to our study because it also examines how water quality conditions, especially dissolved oxygen, relate to aquatic invertebrate abundance. Our research asks what the relationship is between dissolved oxygen and invertebrate abundance, using median DO as the explanatory variable and log-transformed average abundance/L as the response variable. The poster found that macroinvertebrate populations increased with higher dissolved oxygen, which connects to our figures comparing DO with both species-level abundance and total invertebrate abundance. However, our Figure 7 shows a negative relationship between median DO and log-transformed total abundance, meaning our results do not directly support the poster’s conclusion. Instead, our data suggest that higher DO is associated with lower total invertebrate abundance, indicating that other factors such as site, taxon composition, or conductivity may also influence abundance patterns.
-
 
 # Annotated bibliography
 
 ## Background
 
-You can find peer-reviewed articles by searching on Google Scholar, which is a large database of research papers, posters, and other materials.
-
-Note: while it may be tempting to use AI to provide a list of papers for you, you should _not_ be using AI for any component of this activity. You'll accomplish the objective of articulating the connection between your study and other study systems/questions by completing the difficult task of sifting through papers that may not be relevant to you before finding one that is.
+TO DO
 
 Additionally, you can test out inserting citations in Quarto. See [this resource to insert a citation in a .qmd](https://envs-193dd.github.io/resources/adding-citations.html).
-
-## Directions
-
-Individually:
-
-1. Search Google Scholar for papers that might be relevant to your study. One recommendation for how to start: search for whatever your focal variables may be + "wetland restoration" (for example, "bird abundance wetland restoration", "water salinity wetland restoration", "aquatic invertebrate wetland restoration").
-2. Find 4-5 papers that might be relevant based on title and what shows up in the search.
-3. Read the abstracts of those 4-5 papers.
-4. Decide which - if any - are actually relevant to your project. Make a note of these papers.
-   Note that a paper may be relevant in that it shares a) taxonomic groups, b) geographic regions, c) research questions, d) research methodology - there are lots of ways that existing research can be tied into your project.
-5. If step 4 did not yield any relevant papers, repeat steps 2-4.
-6. Search for papers until you have 4 relevant papers per person (12 total for a 3 person group).
-
-As a group:
-
-7. Share the papers you found, discussing the main points of the paper and how they are relevant to your project.
-8. Fill in the template for an annotated bibliography below.
-9. In the "Main findings" or "Relevance to study" sections, insert a citation for the paper.
 
 ### Paper 1
 
