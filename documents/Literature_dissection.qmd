@@ -24,33 +24,34 @@ We chose photos from the water year 2020, with one photo being taken in December
 
 # Reports or posters
 
-Individually:
-
-1.  Navigate to a. the Posters section or b. the Reports section of the collection.
-2.  Find the poster(s) or report(s) related to your project.
-
-As a group:
-
-3.  Discuss which poster or report to focus on based on its relevance to your study question or context. **Note that you only need one of either type.**
-4.  Read the poster or report.
-5.  Discuss the key insights.
-6.  Provide the information in the space below. For "Key insights" and "Relevance to your study", respond in 3-5 sentences.
-
 ## Report or poster information
 
-Title:
+Title: Algae, Macroinvertebrate and Water Quality Relationships at North Campus Open Space
 
-Authors:
+Authors: Lily Huynh, Kylie Malone, Kristen Russell
 
-Year published:
+Year published: 2023
 
-Permalink:
+Permalink: [link](https://escholarship.org/uc/item/98b837q4)
 
-Dataset used (likely):
+Dataset used (likely): Aquatic Inverts Data set (Aquatic Sampling Data-2026-03-10.xlsx)
 
 Key insights:
 
-Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
+- Dissolved oxygen changed over time and may be linked to macroinvertebrate abundance.
+
+- The high conductivity at NVB may have contributed to increased species diversity.
+
+- Macroinvertebrate populations showed short-term spikes followed by declines.
+
+- Ostracods and copepods were the most abundant taxa.
+
+- High dissolved oxygen may support larger populations but not necessarily higher diversity.
+
+Relevance to your study: 
+
+This poster is relevant to our study because it also examines how water quality conditions, especially dissolved oxygen, relate to aquatic invertebrate abundance. Our research asks what the relationship is between dissolved oxygen and invertebrate abundance, using median DO as the explanatory variable and log-transformed average abundance/L as the response variable. The poster found that macroinvertebrate populations increased with higher dissolved oxygen, which connects to our figures comparing DO with both species-level abundance and total invertebrate abundance. However, our Figure 7 shows a negative relationship between median DO and log-transformed total abundance, meaning our results do not directly support the poster’s conclusion. Instead, our data suggest that higher DO is associated with lower total invertebrate abundance, indicating that other factors such as site, taxon composition, or conductivity may also influence abundance patterns.
+
 
 # Annotated bibliography
 
