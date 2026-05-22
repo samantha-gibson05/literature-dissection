@@ -1,0 +1,194 @@
+---
+title: "Literature dissection"
+subtitle: "Spring 2026"
+author: "insert author names here"
+date: "insert date here"
+format: 
+  pdf:
+    toc: true
+bibliography: references.bib
+csl: ecology.csl
+---
+
+# Photo documentation
+
+## Table
+
+| Photo point number | Date of photo | Season  | Direction of photo | Link to photo    |
+|:-------------------|:--------------|:--------|:-------------------|:-----------------|
+| Photopoint_42      | Jul 23, 2020  | Summer  | SE                 | [link](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/694982267344)  |
+| Photopoint_42      | Feb 3, 2020.  | Winter  | SE                 | [link](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/610311618808)  |
+| Photopoint_42      | Dec 13, 2019  | Winter  | SE                 | [link](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/576432502092)  |
+
+We chose photos from the water year 2020, with one photo being taken in December 2019, another photo taken in February 2020, and the third in July 2020. During this water year, North Campus Open Space received large amounts of rain and even had a large tidal breach event. On the arcGIS map this point is marked as number 12 but the titles of the photos refer to this as point 42. We chose this point, specifically in the south east direction because it overlooks a frequently sampled area for aquatic invertebrates, the main channel of Devreux Slough. The main change that can be seen between these photos is the water level. In December 2019 the water level was low however in February 2020 a large amount of rain was received, increasing water levels and dissolved oxygen levels. Then as the season moves to be more dry during the summer the water level and dissolved oxygen both become lower. 
+
+# Reports or posters
+
+Individually:
+
+1.  Navigate to a. the Posters section or b. the Reports section of the collection.
+2.  Find the poster(s) or report(s) related to your project.
+
+As a group:
+
+3.  Discuss which poster or report to focus on based on its relevance to your study question or context. **Note that you only need one of either type.**
+4.  Read the poster or report.
+5.  Discuss the key insights.
+6.  Provide the information in the space below. For "Key insights" and "Relevance to your study", respond in 3-5 sentences.
+
+## Report or poster information
+
+Title:
+
+Authors:
+
+Year published:
+
+Permalink:
+
+Dataset used (likely):
+
+Key insights:
+
+Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
+
+# Annotated bibliography
+
+## Background
+
+You can find peer-reviewed articles by searching on Google Scholar, which is a large database of research papers, posters, and other materials.
+
+Note: while it may be tempting to use AI to provide a list of papers for you, you should _not_ be using AI for any component of this activity. You'll accomplish the objective of articulating the connection between your study and other study systems/questions by completing the difficult task of sifting through papers that may not be relevant to you before finding one that is.
+
+Additionally, you can test out inserting citations in Quarto. See [this resource to insert a citation in a .qmd](https://envs-193dd.github.io/resources/adding-citations.html).
+
+## Directions
+
+Individually:
+
+1. Search Google Scholar for papers that might be relevant to your study. One recommendation for how to start: search for whatever your focal variables may be + "wetland restoration" (for example, "bird abundance wetland restoration", "water salinity wetland restoration", "aquatic invertebrate wetland restoration").
+2. Find 4-5 papers that might be relevant based on title and what shows up in the search.
+3. Read the abstracts of those 4-5 papers.
+4. Decide which - if any - are actually relevant to your project. Make a note of these papers.
+   Note that a paper may be relevant in that it shares a) taxonomic groups, b) geographic regions, c) research questions, d) research methodology - there are lots of ways that existing research can be tied into your project.
+5. If step 4 did not yield any relevant papers, repeat steps 2-4.
+6. Search for papers until you have 4 relevant papers per person (12 total for a 3 person group).
+
+As a group:
+
+7. Share the papers you found, discussing the main points of the paper and how they are relevant to your project.
+8. Fill in the template for an annotated bibliography below.
+9. In the "Main findings" or "Relevance to study" sections, insert a citation for the paper.
+
+### Paper 1
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+### Paper 2
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+### Paper 3
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+### Paper 4
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+### Paper 5
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+### Paper 6
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+### Paper 7
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+### Paper 8
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+### Paper 9
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+### Paper 10
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+### Paper 12
+
+Title:
+
+Authors:
+
+Main findings (2-4 sentences):
+
+Relevance to study (2-4 sentences):
+
+# References
+
