@@ -2,42 +2,32 @@
 
 Spring 2026
 
-# Objective
+## General information
 
-In class, you will explore the data documentation, posters, reports, papers, and other materials from the Cheadle Center.
+This repository contains a Quarto literature dissection for our final project for ENVS 193DD Spring 2026. The project explores background materials related to aquatic invertebrates, dissolved oxygen, and water quality at North Campus Open Space. It includes photo documentation, information from a Cheadle Center poster, and space for an annotated bibliography of peer-reviewed articles relevant to the final project.
 
-You will also find published papers that are relevant to your final project.
+To render the Quarto document, you will need Quarto and a LaTeX/PDF engine such as TinyTeX. The document also uses a bibliography file and citation style file: 
 
-After completing your literature dissection as a group, you will have been able to:
+- bibliography: `references.bib`
 
-1. describe any seasonal or annual shifts in environmental conditions at a sampling site that is relevant to your project
-2. identify datasets or surveys used in a poster/report/paper from the Cheadle Center
-3. articulate the connection between your study and other study systems or questions using peer-reviewed articles
-4. practice using citations in Quarto
+- csl: `ecology.csl`
 
-Your literature dissection will be evaluated on:
+## Data and file information
+```
+.
+├── README.md
+├── README.html
+├── documents 
+│   ├── Literature_dissection.pdf                  # rendered pdf 
+│   ├── Literature_dissection.qmd                  
+│   ├── ecology.csl
+│   ├── references.bib
+│   ├── template.pdf
+│   └── template.qmd
+└── literature-dissection.Rproj
+```
 
-- your clear and detailed description of seasonal or annual changes in the **Photo documentation** section
-- the correct identification of a report or poster that is relevant to your project along with the dataset that likely underlies that report or poster in the **Reports or posters** section
-- the detail and connection you make between peer-reviewed articles and your project in the **Annotated bibliography section**
-- the presentation (i.e. formatting) of your final document
+## Rendered output
 
-# What you will turn in on Friday the 29th
+Link to rendered output [here](https://github.com/samantha-gibson05/literature-dissection/blob/main/documents/Literature_dissection.pdf)
 
-You will turn in a **link to the GitHub repo you created using this repo as a template**.
-
-By the time you turn in your assignment, you should have edited this README (i.e. deleted all the existing text) to include the sections that you should have in a README.
-
-Additionally, you should have edited the `template.qmd` such that all directions are taken out. The only content should be headers and the information you are expected to provide.
-
-# Databases to be familiar with
-
-- eScholarship, specifically for the [Cheadle Center](https://escholarship.org/uc/ccber)
-- Google Scholar
-
-
-• README includes required sections (General information, “Data and file information”, “Rendered output”)
-• README sections filled in with enough information to understand the structure of the repository
-• link to rendered output in README works
-• at least 10 commits/pushes with descriptive, concise commit message (be careful with this - if you don’t write a clear description in your commit message, there’s really no going back)
-• commits from more than 1 member of group
