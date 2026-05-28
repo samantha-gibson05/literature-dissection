@@ -14,13 +14,13 @@ csl: ecology.csl
 
 ## Table
 
-| Photo point number | Date of photo | Season  | Direction of photo | Link to photo    |
-|:-------------------|:--------------|:--------|:-------------------|:-----------------|
-| Photopoint_42      | Jul 23, 2020  | Summer  | SE                 | [link here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/694982267344)  |
-| Photopoint_42      | Feb 3, 2020.  | Winter  | SE                 | [link here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/610311618808)  |
-| Photopoint_42      | Dec 13, 2019  | Winter  | SE                 | [link here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/576432502092)  |
+| Photo point number | Date of photo | Season | Direction of photo | Link to photo |
+|:--------------|:--------------|:--------------|:--------------|:--------------|
+| Photopoint_42 | Jul 23, 2020 | Summer | SE | [link here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/694982267344) |
+| Photopoint_42 | Feb 3, 2020. | Winter | SE | [link here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/610311618808) |
+| Photopoint_42 | Dec 13, 2019 | Winter | SE | [link here](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/576432502092) |
 
-We chose photos from the water year 2020, with one photo being taken in December 2019, another photo taken in February 2020, and the third in July 2020. During this water year, North Campus Open Space received large amounts of rain and even had a large tidal breach event. On the arcGIS map this point is marked as number 12 but the titles of the photos refer to this as point 42. We chose this point, specifically in the south east direction because it overlooks a frequently sampled area for aquatic invertebrates, the main channel of Devreux Slough. The main change that can be seen between these photos is the water level. In December 2019 the water level was low however in February 2020 a large amount of rain was received, increasing water levels and dissolved oxygen levels. Then as the season moves to be more dry during the summer the water level and dissolved oxygen both become lower. 
+We chose photos from the water year 2020, with one photo being taken in December 2019, another photo taken in February 2020, and the third in July 2020. During this water year, North Campus Open Space received large amounts of rain and even had a large tidal breach event. On the arcGIS map this point is marked as number 12 but the titles of the photos refer to this as point 42. We chose this point, specifically in the south east direction because it overlooks a frequently sampled area for aquatic invertebrates, the main channel of Devreux Slough. The main change that can be seen between these photos is the water level. In December 2019 the water level was low however in February 2020 a large amount of rain was received, increasing water levels and dissolved oxygen levels. Then as the season moves to be more dry during the summer the water level and dissolved oxygen both become lower.
 
 # Reports or posters
 
@@ -36,12 +36,11 @@ We chose photos from the water year 2020, with one photo being taken in December
 
 **Dataset used** (likely): Aquatic Inverts Data set (Aquatic Sampling Data-2026-03-10.xlsx)
 
-**Key insights**:
-- The high conductivity at NVB may have contributed to increased species diversity.
+**Key insights**: - The high conductivity at NVB may have contributed to increased species diversity.
 
-- High dissolved oxygen may support larger populations but not necessarily higher diversity.
+-   High dissolved oxygen may support larger populations but not necessarily higher diversity.
 
-**Relevance to your study**: 
+**Relevance to your study**:
 
 This poster is relevant to our study because it also examines how water quality conditions, especially dissolved oxygen, relate to aquatic invertebrate abundance. The poster found that macroinvertebrate populations increased with higher dissolved oxygen, which connects to our figures comparing DO with both species-level abundance and total invertebrate abundance. However, our Figure 7 shows a negative relationship between median DO and log-transformed total abundance, meaning our results suggest that higher DO is associated with lower total invertebrate abundance.
 
@@ -49,119 +48,124 @@ This poster is relevant to our study because it also examines how water quality 
 
 ## Background
 
-TO DO
-
-Additionally, you can test out inserting citations in Quarto. See [this resource to insert a citation in a .qmd](https://envs-193dd.github.io/resources/adding-citations.html).
-
 ### Paper 1
 
-Title:
+Title: Effect of low dissolved oxygen on survival, emergence, and drift of tropical stream macroinvertebrates
 
-Authors:
+Authors: N. M. Connolly, M. R. Crossland, R. G. Pearson
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): Macroinvertebrate taxa observed in two tropical streams tolerate all levels of DO except very low levels (averaged \<10%). The researchers observed drift response at these low levels, but not at moderate levels of DO. At moderate levels, invertebrates will respond with suppressed emergence and other sublethal behaviors (@connolly2004a).
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): Invertebrates need dissolved oxygen to survive, and low levels will have mortality effects. However, moderate levels may only have sublethal effects, possibly explaining high counts of invertebrates at these levels. But those counts do not account for whether or not they are emergent invertebrates, which is something else we should consider when analyzing our data.
 
 ### Paper 2
 
-Title:
+Title: Adverse impacts of hypoxia on aquatic invertebrates: A meta-analysis
 
-Authors:
+Authors: Nika Galica, Tanner Hawkins, Valery E. Forbes
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This meta-analysis found halved response rates of invertebrates to hypoxia, the most dramatic being respiration rates, followed by reproduction, growth, and feeding. The data they looked at showed large variation at lower oxygen concentrations but less variation with increasing oxygen availability. Additionally, the more complex an organism is, the less tolerant it is to hypoxia. Lastly, they looked at studies comparing temperature and oxygen, and found that for some organisms, higher temperatures increase the threshold of oxygen at which the organism can survive (@galic2019).
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): Low oxygen levels, along with increasing temperatures, have adverse effects on invertebrates. Although we won’t be able to know what levels are too low, exploring our data can show us what levels of oxygen these organisms are able to withstand, providing insight into a general range of dissolved oxygen levels healthy for the invertebrate communities that currently exist at NCOS.
 
 ### Paper 3
 
-Title:
+Title: Response of Aquatic Invertebrates to Ecological Rehabilitation of Southeastern USA Depressional Wetlands
 
-Authors:
+Authors: Darold P. Batzer, Barbara E. Taylor, Adrienne E. DeBiase, Susan E. Brantley, Richard Schultheis
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This study assessed the response of invertebrates to rehabilitation in wetlands by comparing control to treatment wetlands. They found that the treatment wetlands had greater abundance of invertebrates and overall more invertebrates than control wetlands, specifically during the rehabilitation year that had heavy rains which was 2003. However, some of the abundant species in the treatment wetlands may have been exhibiting opportunistic behavior, as they lacked some of the traits required for living in wetlands that have both dry and wet periods. The authors posit that the first 3 years of rehabilitation response, which were considered dry years, may have been a period of re-colonization in response to the disturbance of rehabilitation activities (@batzer2015).
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This study demonstrates that rehabilitation in wetlands can induce invertebrate development, abundance, and diversity. NCOS is a restored wetland, so looking at the aquatic invertebrate data, as we are doing for our project, is an important metric of restoration efforts.
 
 ### Paper 4
 
-Title:
+Title: Aquatic invertebrate assemblages as potential indicators of restoration conditions in wetlands of Northeastern China
 
-Authors:
+Authors: Kangle Lu, Haitao Wu, Qiang Guan, Xianguo Lu
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This study looked at wetlands in Sanjiang Plain, Northeastern China to evaluate whether or not invertebrate abundance is related to wetland restoration. They found that natural and restored wetlands had more invertebrates than impaired wetlands, meaning that invertebrate abundance can be used as indication of conditions of wetlands restoration (@lu2020).
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This study provides more evidence to the relationship between invertebrate abundance and restoration efforts in wetlands, like the previous paper. This is valuable to our project because we are looking at invertebrate data, and therefore can also assess restoration conditions by looking at how abundance has changed over time, or can see if our data follows the same relationship shown in this study.
 
 ### Paper 5
 
-Title:
+Title: Moderate reductions in dissolved oxygen may compromise performance in an ecologically-important estuarine invertebrate
 
-Authors:
+Authors: Michael Collins, Oliver Tills, Lucy M. Turner, Melody S. Clark, John I. Spicer, Manuela Truebano
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This study looked at how different levels of hypoxia affected Gammarus chevreuxi, an amphipod, in estuarine ecosystems. At moderate levels of hypoxia, G. chevereuxi responded with upregulation of genes, specifically genes relevant to aerobic metabolism and genes that could aid in future anaerobic metabolism, meaning they expend more energy under these conditions. At severe levels of hypoxia, there was no change at the transcription level of genes; instead, the amphipods maintained aerobic performance when possible, but also exhibited hyperventilatory behavior. This could imply recourse to hypometabolism and physiological impairment (@collins2019).
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper demonstrates that low dissolved oxygen levels have negative effects on one model invertebrate, which is why it’s important to monitor dissolved oxygen levels and their relationship to the invertebrates that live at NCOS. This could also help provide context for why we are seeing higher abundance of invertebrates at certain levels of dissolved oxygen.
 
 ### Paper 6
 
-Title:
+Title: Measuring Wetland Restoration Success through Water Quality and Invertebrate Community Indices
 
-Authors:
+Authors: Abbey Elisabeth Raison
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This honors thesis found that in the wetland that was being studied, established wetlands had slightly lower dissolved oxygen than restored wetlands. It was also found that invertebrate populations were larger in restored wetlands as plant richness increased (@raison2023a).
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): By evaluating different indicators of wetland restoration success, we are able to draw connections between these indices. An increase in plant richness can result in increased dissolved oxygen levels (during the day) which would also result in an increase of invertebrate abundance. Making these connections will help us to better understand the data that we have processed.
 
 ### Paper 7
 
-Title:
+Title: Invertebrate Activities in Wetland Sediments Influence Oxygen and Nutrient Dynamics at the Sediment-water Interface
 
-Authors:
+Authors: Taylor C. Michael, David M. Costello, Andrea S. Fitzgibbon, Lauren E. Kinsman-Costello
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This study examines how burrowing wetland invertebrates, known as bioturbators, affect quantities of dissolved oxygen and nutrient cycling in sediments. When inverts burrow through the ground of the wetland they disturb the sediment by introducing water into the sediment. Oftentimes the sediment is anoxic but this digging increases the oxygen availability and overall dissolved oxygen levels (@michael2023).
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): We have solely been looking at our data from the perspective of dissolved oxygen impacting invertebrates but we hadn’t considered the possibility that the invertebrates were impacting dissolved oxygen levels. This study offers a new way of looking at the data we have processed and could help us understand the relationship between both variables.
 
 ### Paper 8
 
-Title:
+Title: Oxygen is a better predictor of macro invertebrate richness than temperature - a systematic review
 
-Authors:
+Authors: L Croijmans, J F De Jong, and H H T Prins
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This analysis aims to separate two frequent drivers of biodiversity loss in freshwater ecosystems, temperature and dissolved oxygen. Both factors are frequently correlated and grouped together. Their meta analysis found that taxonomic richness is positively related with dissolved oxygen concentration, more so that inverse negative correlation of temperature (@croijmans2021).
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): Although this paper looked only at freshwater systems, it is still interesting to compare our findings to theirs. Where these researchers found a positive correlation between abundance and dissolved oxygen, we found a negative correlation. The difference in findings suggests that there are other factors at play determining abundance that we should look into.
 
 ### Paper 9
 
-Title:
+Title: Impacts of hypoxia on the structure and processes in pelagic communities (zooplankton, macro-invertebrates and fish)
 
-Authors:
+Authors: W. Ekau, H. Auel, H.O Pörtner, and D. Gilbert
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This study found that many inverts avoid low oxygen water by moving into more oxygenated areas. They avoid low oxygen areas due to reduced growth and reproduction, and increased mortality. While many inverts struggle in low oxygen conditions, tolerance varies widely from species to species (@ekau2010).
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper goes directly against our findings, since our results show a negative correlation between abundance and dissolved oxygen. This could be for many reasons, maybe our systems are just highly different or the statistical tests we ran were different from theirs.
 
 ### Paper 10
 
-Title:
+Title: The relative importance of metabolic rate and body size to space use behavior in aquatic invertebrates
 
-Authors:
+Authors: Milad Shokri, Vanessa Marrocco, Francesco Cozzoli, Fabio Vignes, and Alberto Basset
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This study found that metabolic rate is a stronger predictor of space use behavior than body size in aquatic inverts. Those with higher metabolic rates moved more and explored larger areas. These results suggest that an individual's energy demands are an important factor in determining how it uses its habitat (@shokri2024).
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): Even though this study does not directly measure dissolved oxygen, it is still relevant to our study. Because metabolic rate depends on oxygen availability, dissolved oxygen can directly influence these behaviors. Under low oxygen conditions, inverts may have decreased metabolic rates, causing them to slow down and move less.
+
+### Paper 11
+
+Title: Effects of seasonal hypoxia on macroinvertebrate communities in a small reservoir
+
+Authors: David O. Lucchesi, Steven R. Chipps, David A. Schumann
+
+Main findings (2-4 sentences): This paper found that seasonal hypoxia affected where macroinvertebrates were found in Lake Alvin. Benthic invertebrates were often absent from the deeper lacustrine zone during severe hypoxia and were most abundant in the shallow, well-oxygenated riverine zone. Littoral invertebrate abundance was negatively related to the percent of the water column that was hypoxic, while Cladocera and Copepoda densities were influenced more by water depth and monthly precipitation (@lucchesi2022).
+
+Relevance to study (2-4 sentences): This article is relevant to our study because it examines how dissolved oxygen and hypoxia influence macroinvertebrate abundance and distribution. Our study asks about the strength of the relationship between DO and invertebrate abundance, and this paper supports the idea that oxygen availability can shape abundance patterns. It is also useful because it shows that DO may not act alone and that other factors (ex: water depth, precipitation, habitat zone, and fish predation) can influence invertebrate patterns, which helps explain why our own DO-abundance relationship may be more complex and not clearly linear.
 
 ### Paper 12
 
-Title:
+Title: Community Composition of Aquatic Invertebrates along Dissolved Oxygen Gradients in Lake Huron Coastal Wetland Wet Meadows
 
-Authors:
+Authors: Danielle Gunsch
 
-Main findings (2-4 sentences):
+Main findings (2-4 sentences): This paper found that dissolved oxygen gradients existed within Lake Huron coastal wet meadows, especially because shallow, protected areas experienced longer periods of hypoxia and anoxia. Oxygen-sensitive zoobenthos were more abundant in areas with shorter durations of low oxygen, showing that DO levels can influence invertebrate community patterns. However, overall invertebrate community composition was more strongly shaped by broader differences among ecoregions and wetlands than by sampling depth alone (@gunsch2020).
 
-Relevance to study (2-4 sentences):
+Relevance to study (2-4 sentences): This paper is relevant to our study because it also examines how DO relates to aquatic invertebrate abundance and community composition. Our study asks about the strength of the relationship between DO and invertebrate abundance, and this thesis supports the idea that DO can affect which invertebrates are present and how abundant oxygen-sensitive taxa are. It is especially useful for interpreting our DO-abundance figures and community composition plot because it shows that DO matters, but site-level differences and other environmental factors may also strongly influence invertebrate patterns.
 
 # References
-
